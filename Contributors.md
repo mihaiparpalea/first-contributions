@@ -1886,3 +1886,4 @@
 - [Saurav Prakash]
 - [John DeBord](https://github.com/johndebord)
 - [Zoe Aron](https://github.com/zoearon)
+- [Mihai Parpalea](https://github.com/mihaiparpalea)
